@@ -1,0 +1,5 @@
+/config/local.env
+/config/rclone/rclone.conf
+
+/out/
+*.log
